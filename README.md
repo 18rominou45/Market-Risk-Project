@@ -10,7 +10,7 @@ The project analyzes financial returns and price dynamics using empirical data, 
 
 - Non-parametric Value-at-Risk estimation using Kernel Density Estimation
 
- -Expected Shortfall computation and comparison with VaR
+- Expected Shortfall computation and comparison with VaR
 
 - Extreme Value Theory analysis using Pickands’ estimator
 
